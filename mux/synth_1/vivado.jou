@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Aug 20 09:21:15 2019
+# Process ID: 23544
+# Current directory: C:/Users/Ankit Karan/Desktop/mux/mux.runs/synth_1
+# Command line: vivado.exe -log demo_mux.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source demo_mux.tcl
+# Log file: C:/Users/Ankit Karan/Desktop/mux/mux.runs/synth_1/demo_mux.vds
+# Journal file: C:/Users/Ankit Karan/Desktop/mux/mux.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source demo_mux.tcl -notrace
