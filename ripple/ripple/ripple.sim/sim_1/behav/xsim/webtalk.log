@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Sep  4 11:10:31 2019
+# Process ID: 18020
+# Current directory: C:/Users/Ankit Karan/Desktop/lab1/ripple/ripple/ripple.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/Ankit Karan/Desktop/lab1/ripple/ripple/ripple.sim/sim_1/behav/xsim/xsim.dir/rippleadder_b_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/Ankit Karan/Desktop/lab1/ripple/ripple/ripple.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/Ankit Karan/Desktop/lab1/ripple/ripple/ripple.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Ankit -notrace
+couldn't read file "C:/Users/Ankit": no such file or directory
+INFO: [Common 17-206] Exiting Webtalk at Wed Sep  4 11:10:31 2019...
