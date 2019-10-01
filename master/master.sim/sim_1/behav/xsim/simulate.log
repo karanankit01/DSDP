@@ -1,0 +1,15 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+INITIALIZING
+RSLT	d	qn_1	q
+PASS	0	z	0
+PASS	0	z	0
+
+TESTING
+RSLT	d	qn_1	q
+PASS	0	z	0
+PASS	1	z	0
+PASS	1	z	1
+PASS	0	z	1
+PASS	1	z	0
+$finish called at time : 75 ns : File "C:/Users/Ankit Karan/Desktop/lab2/master/master.srcs/sim_1/new/mast_tb.v" Line 84
